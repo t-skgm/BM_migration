@@ -1,3 +1,9 @@
+
+https://elk.bookmeter.com/users/33029
+https://elk.bookmeter.com/books/11208157
+https://elk.bookmeter.com/users/33029/books/reading
+
+
 rank: 2
 status: 4
 review: "レビュー"
