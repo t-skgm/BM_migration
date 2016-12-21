@@ -4,7 +4,7 @@ require 'csv'
 require 'json'
 # require 'robotex' #いる？
 
-# リニューアル対応版
+# リニューアル対応版、未完成！
 
 userid = ''
 base_url = 'https://elk.bookmeter.com'
