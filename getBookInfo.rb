@@ -31,8 +31,8 @@ agent.user_agent = 'Mac Safari'
 agent.get(login_url) do |page|
   page.form_with(:action => '/login') do |form|
     formdata = {
-      :mail => "myredblood@gmail.com", # 自分のログイン用メールアドレスを入れる
-      :password => "euph147258",  # 自分のパスワードを入れる
+      :mail => "mail", # 自分のログイン用メールアドレスを入れる
+      :password => "pw",  # 自分のパスワードを入れる
     }
     form.field_with(:name => 'mail').value = formdata[:mail]
     form.field_with(:name => 'password').value = formdata[:password]

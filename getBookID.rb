@@ -5,8 +5,8 @@ require 'csv'
 result_path = "bookID.csv"
 incl_org = 0
 
-acount_m = "myredblood@gmail.com" # 自分のログイン用メールアドレスを入れる
-acount_pw = "euph147258" # 自分のパスワードを入れる
+acount_m = "mail" # 自分のログイン用メールアドレスを入れる
+acount_pw = "pw" # 自分のパスワードを入れる
 
 userid = "33029"
 base_url = "http://bookmeter.com"
